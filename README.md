@@ -1,5 +1,7 @@
 #### 👋 Hello, I'm Fabrício Luís  ####
 
+![Alt Text](./orange.gif)
+
 
 
 ![Polho GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioLuisdeSousaSantos&show_icons=true&theme=default)
